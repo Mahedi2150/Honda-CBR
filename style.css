@@ -20,3 +20,16 @@ body {
 .grayimage {
   filter: grayscale(100%);
 }
+.sort-text-color,
+.fa-star {
+  color: #e76f51;
+}
+.card-border {
+  border: 1px solid #dedede;
+  border-radius: 5px;
+}
+.clients-img {
+  width: 149px;
+  height: 149px;
+  border-radius: 50%;
+}
