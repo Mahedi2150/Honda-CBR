@@ -34,3 +34,11 @@ body {
   border-radius: 50%;
   object-fit: cover;
 }
+.gray-brand {
+  filter: grayscale(100%);
+  transition: 0.1s;
+  cursor: pointer;
+}
+.gray-brand:hover {
+  filter: grayscale(0%);
+}
